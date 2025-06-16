@@ -1,0 +1,30 @@
+{
+    "name": "Sindhy Paramita Rusmedi",
+    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
+    "profileImage": "images/profile.jpg",
+    "email": "sindhyparamita1905@gmail.com",
+    "phone": "+62 (896) 470-00805",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/sindhy-paramita-rusmedi-a26969217"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Rusmedi"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 70},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 70},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 65}
+    ]
+}

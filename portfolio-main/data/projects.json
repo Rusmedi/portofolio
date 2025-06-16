@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Prototype Litter Box Otomatis Berbasis Arduino UNO",
+        "year": "2024",
+        "partner": "",
+        "role": "Lead Engineer",
+        "description": "Designed and built an automated litter box system using Arduino UNO, featuring self-cleaning and odor control mechanisms to improve pet hygiene.",
+        "image": "images/project1.jpg"
+    },
+    {
+        "title": "Sistem Kendali Kualitas Produk Botol Minuman Menggunakan Image Processing Berbasis Phyton",
+        "year": "2024",
+        "partner": "",
+        "role": "Project Lead",
+        "description": "Developed an image processing system with Python to detect defects in bottle caps, integrating servo motor control to separate faulty products in real-time.",
+        "image": "images/project2.jpg"
+    },
+	{
+        "title": "Rancang Bangun Pendulum Terbalik Linear dengan Kendali PID untuk Stabilisasi Sistem",
+        "year": "2025",
+        "partner": "",
+        "role": "Project Lead",
+        "description": "Designed and implemented a linear inverted pendulum system with PID control using STM32, achieving stable balancing performance with real-time angle monitoring.",
+        "image": "images/project3.png"
+    }
+]
